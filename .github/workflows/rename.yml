@@ -1,4 +1,4 @@
-name: Checkout and Modify Code
+name: Checkout and Modify Codes
 
 on:
   workflow_dispatch:
